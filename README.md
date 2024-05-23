@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
 
-<p>Let me introduce myself. <br> My name is Vincenzo Mercadante I have started my developer life 6 month ago when I started a Full Stack Web Developer course, but I'm addicted to tech since I was a kid.
+<p>Let me introduce myself. <br> My name is Vincenzo Mercadante and I have started my developer life 6 months ago when I started a Full Stack Web Developer course, but I'm addicted to tech since I was a kid.
 <br>After two years as Network Engineer I decided to bet on myself and start studying coding.
 <br>
 Now I'm currently look for a dev job to start my work experience in this field</p>
@@ -31,17 +31,3 @@ Now I'm currently look for a dev job to start my work experience in this field</
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzomercadante&" alt="vincenzomercadante" /></p>
 
-<!--
-**vincenzomercadante/vincenzomercadante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
