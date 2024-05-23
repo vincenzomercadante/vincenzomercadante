@@ -14,7 +14,7 @@ Now I'm currently look for a dev job to start my work experience in this field</
 - 📄 Know about my experiences https://drive.google.com/file/d/1-ciyq3OqaAtkqjaqZYOH8-XmlbuZwB5N/view?usp=sharing
 - ⚡ Fun fact: One of my dream is to travel around the world and do Urbex
 
-<h3>How could you reach me?</h3>
+<h3>Other way to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vincenzo-mercadante-262357211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-falanga-52b523232" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mercacenzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c1cc1o__/" height="30" width="40" /></a>
@@ -22,7 +22,7 @@ Now I'm currently look for a dev job to start my work experience in this field</
 
 <h3>Technologies:</h3>
 <p>
-    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,mysql,php,laravel">
+    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,mysql,php,laravel,postman,git">
 </p>
 
 <br/><br>
