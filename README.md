@@ -4,7 +4,8 @@
 
 <p>Let me introduce myself. <br> My name is Vincenzo Mercadante I have started my developer life 6 month ago when I started a Full Stack Web Developer course, but I'm addicted to tech since I was a kid.
 <br>After two years as Network Engineer I decided to bet on myself and start studying coding.
-Now I'm currently look for a dev work to start my work experience in this field</p>
+<br>
+Now I'm currently look for a dev job to start my work experience in this field</p>
 
 - 🔭 I’m currently working on a YuGiOh database, deck builder and other stuff...
 - 🌱 I’m currently learning Solid.js
