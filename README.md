@@ -3,8 +3,10 @@
 
 <p>My name is Vincenzo Mercadante. <br/>I have started my journey as a developer six months ago when I enrolled in a Full Stack Web Developer course. However, my passion for tech began in my childhood. <br/> After working as a Network Engineer for two years, I decided to bet on myself and start learning coding. Now, I am actively seeking a developer position to begin my career in this field.</p>
 
-- 🔭 I’m currently working on my personal Portfolio
-- 🌱 I’m currently reviewing my Javascript knowledge
+<p>I'm working as a Full Stack Web Developer at Bosch Rexroth</p>
+
+- 🔭 I’m currently working on a weather app project 
+- 🌱 I’m currently improving my React-Typescript and .Net core skills
 - 💬 Ask me about travel, anime/manga, video games, card games (YuGiOh, Pokemon, One Piece), photography, football, and the gym.
 - 📫 How to reach me: **vincenzo.mercadante0@outlook.it**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-ciyq3OqaAtkqjaqZYOH8-XmlbuZwB5N/view?usp=sharing" target="blank">My Resume</a>
