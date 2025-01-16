@@ -1,7 +1,7 @@
 <h1 align="center">Hi buddy 👋, I'm Vincenzo</h1>
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
-<p>My name is Vincenzo Mercadante. <br/>I have started my journey as a developer six months ago when I enrolled in a Full Stack Web Developer course. However, my passion for tech began in my childhood. <br/> After working as a Network Engineer for two years, I decided to bet on myself and start learning coding. Now, I am actively seeking a developer position to begin my career in this field.</p>
+<p>My name is Vincenzo Mercadante. <br/>I have started my journey as a developer six months ago when I enrolled in a Full Stack Web Developer course. However, my passion for tech began in my childhood. <br/> After working as a Network Engineer for two years, I decided to bet on myself and start learning coding.</p>
 
 <p>I'm working as a Full Stack Web Developer at Bosch Rexroth</p>
 
@@ -20,7 +20,7 @@
 
 <h3>Technologies:</h3>
 <p>
-    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,mysql,php,laravel,postman,git,typescript,c#,sql">
+    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,typescript,react,redux,vue,mysql,php,laravel,cs,dotnet,postman,git,figma">
 </p>
 
 <br/><br>
