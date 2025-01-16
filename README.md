@@ -20,7 +20,7 @@
 
 <h3>Technologies:</h3>
 <p>
-    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,mysql,php,laravel,postman,git">
+    <img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,mysql,php,laravel,postman,git,typescript,c#,sql">
 </p>
 
 <br/><br>
