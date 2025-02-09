@@ -5,7 +5,7 @@
 
 <p>I'm working as a Full Stack Web Developer at Bosch Rexroth</p>
 
-- 🔭 I’m currently working on a weather app project 
+- 🔭 I’m currently working on a dice game dashboard
 - 🌱 I’m currently improving my React-Typescript and .Net core skills
 - 💬 Ask me about travel, anime/manga, video games, card games (YuGiOh, Pokemon, One Piece), photography, football, and the gym.
 - 📫 How to reach me: **vincenzo.mercadante0@outlook.it**
