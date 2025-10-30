@@ -9,7 +9,7 @@
 - 🌱 I'm planning to start the CS50 Harvard courses and I have just started to study Python
 - 💬 Ask me about travel, anime/manga, video games, card games (YuGiOh, Pokemon, One Piece), photography, football, and the gym.
 - 📫 How to reach me: **vincenzo.mercadante0@outlook.it**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-ciyq3OqaAtkqjaqZYOH8-XmlbuZwB5N/view?usp=sharing" target="blank">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/my-drive" target="blank">My Resume</a>
 - ⚡ Fun fact: One of my dreams is to travel around the world and do urban exploration (Urbex) and become really skilled at phography.
 
 <h3>Other way to reach me:</h3>
