@@ -6,7 +6,7 @@
 <p>I'm working as a Full Stack Web Developer at Bosch Rexroth</p>
 
 - 🔭 I have planned to start a project about a social network only for travel photography 
-- 🌱 I'm planning to start the CS50 Harvard courses
+- 🌱 I'm planning to start the CS50 Harvard courses and I have just started to study Python
 - 💬 Ask me about travel, anime/manga, video games, card games (YuGiOh, Pokemon, One Piece), photography, football, and the gym.
 - 📫 How to reach me: **vincenzo.mercadante0@outlook.it**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-ciyq3OqaAtkqjaqZYOH8-XmlbuZwB5N/view?usp=sharing" target="blank">My Resume</a>
